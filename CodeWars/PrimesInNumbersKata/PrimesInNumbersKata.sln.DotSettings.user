@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac44db22_002D3bf1_002D4607_002Da6bf_002Dbd1ed69adfa2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MorseCodeDecoderBasicTest_1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3912A262-5C6D-4374-B10E-6CC91F82D81D::net5.0::RectangleIntoSquares.Tests.MorseCodeDecoderBasicTest_1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b568b7fc_002D1415_002D46f7_002D9517_002D746ae0a42da5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MorseCodeDecoderBasicTest_1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3912A262-5C6D-4374-B10E-6CC91F82D81D::net5.0::RectangleIntoSquares.Tests.MorseCodeDecoderBasicTest_1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dff3f9ce_002Db51a_002D4d8a_002D8bd4_002D659c720f522b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MorseCodeDecoderBasicTest_1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3912A262-5C6D-4374-B10E-6CC91F82D81D::net5.0::RectangleIntoSquares.Tests.MorseCodeDecoderBasicTest_1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
