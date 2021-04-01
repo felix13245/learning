@@ -4,7 +4,7 @@
     &lt;TestId&gt;NUnit3x::3912A262-5C6D-4374-B10E-6CC91F82D81D::net5.0::RectangleIntoSquares.Tests.MorseCodeDecoderBasicTest_1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b568b7fc_002D1415_002D46f7_002D9517_002D746ae0a42da5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MorseCodeDecoderBasicTest_1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b568b7fc_002D1415_002D46f7_002D9517_002D746ae0a42da5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MorseCodeDecoderBasicTest_1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3912A262-5C6D-4374-B10E-6CC91F82D81D::net5.0::RectangleIntoSquares.Tests.MorseCodeDecoderBasicTest_1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;

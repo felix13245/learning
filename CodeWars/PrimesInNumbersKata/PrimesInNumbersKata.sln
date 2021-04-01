@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimesInNumbersKata", "Prim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleIntoSquares", "..\RectangleIntoSquares\RectangleIntoSquares.csproj", "{3912A262-5C6D-4374-B10E-6CC91F82D81D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodetheMorsecode", "..\DecodetheMorsecode\DecodetheMorsecode.csproj", "{030EE1C7-76B4-40E8-B794-B0DB76EF749A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecodetheMorsecode", "..\DecodetheMorsecode\DecodetheMorsecode.csproj", "{030EE1C7-76B4-40E8-B794-B0DB76EF749A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerimeterOfSquaresInARectangle", "..\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle.csproj", "{10D57B20-A758-46AC-A358-58DF960519EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerimeterOfSquaresInARectangle", "..\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle.csproj", "{10D57B20-A758-46AC-A358-58DF960519EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeaSpiral", "..\MakeaSpiral\MakeaSpiral.csproj", "{FD35D70B-00CB-4E7F-A0C0-822FB4CE0D77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeaSpiral", "..\MakeaSpiral\MakeaSpiral.csproj", "{FD35D70B-00CB-4E7F-A0C0-822FB4CE0D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackThePin", "..\CrackThePin\CrackThePin.csproj", "{BC978B2E-675A-462D-8A9F-D9CAC4FC9CCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FD35D70B-00CB-4E7F-A0C0-822FB4CE0D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD35D70B-00CB-4E7F-A0C0-822FB4CE0D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD35D70B-00CB-4E7F-A0C0-822FB4CE0D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC978B2E-675A-462D-8A9F-D9CAC4FC9CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC978B2E-675A-462D-8A9F-D9CAC4FC9CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC978B2E-675A-462D-8A9F-D9CAC4FC9CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC978B2E-675A-462D-8A9F-D9CAC4FC9CCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
